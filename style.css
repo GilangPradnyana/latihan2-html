@@ -31,3 +31,12 @@ h3>span {
   padding-right: inherit;
   color: rgb(20, 175, 124);
 }
+
+/* Article */
+p {
+  font-family: Verdana;
+}
+
+p>span {
+  color: darkblue;
+}
